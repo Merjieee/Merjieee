@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Merjieee
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Networking
 - 🌱 I’m currently learning ... Programming/Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I don't have any idea in coding
+- 💞️ I’m looking to collaborate on ... Application Software
+- 📫 How to reach me ... Check my E-Portfolio
+- ⚡ Fun fact: ... I'm a 1st year BSIT Student
 
 <!---
 Merjieee/Merjieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
